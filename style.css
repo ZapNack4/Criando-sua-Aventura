@@ -1,0 +1,34 @@
+body{
+background: rgb(31,181,151);
+color: #000000;
+font-family:"Protest Revolution", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+}
+button{
+background-color: #c3a42d;
+color: white;
+font-family:"Protest Revolution", sans-serif;
+
+}
+
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
+
+main{
+text-align: center;
+    max-width: 90%;
+
+}
+
+img{ 
+max-width: 90%;
+
+}
